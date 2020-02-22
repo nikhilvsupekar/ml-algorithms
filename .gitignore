@@ -132,3 +132,4 @@ dmypy.json
 
 # project specific
 data/.DS_Store
+.idea/*
